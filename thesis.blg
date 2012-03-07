@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: thesis.aux
+The style file: splncs03.bst
+Database file #1: thesis.bib
+Warning--to sort, need author or key in GridVision
+Warning--to sort, need author or key in GME
+Warning--missing school in Chalkiadakis:2007:BAM:1467514
+Warning--there's a number but no volume in Kjaerulff_1990
+Warning--can't use both volume and number fields in 615762
+You've used 74 entries,
+            2785 wiz_defined-function locations,
+            1138 strings with 21989 characters,
+and the built_in function-call counts, 42530 in all, are:
+= -- 3624
+> -- 1097
+< -- 97
++ -- 458
+- -- 373
+* -- 2733
+:= -- 5285
+add.period$ -- 98
+call.type$ -- 74
+change.case$ -- 451
+chr.to.int$ -- 0
+cite$ -- 79
+duplicate$ -- 3883
+empty$ -- 3825
+format.name$ -- 432
+if$ -- 9449
+int.to.chr$ -- 0
+int.to.str$ -- 74
+missing$ -- 747
+newline$ -- 227
+num.names$ -- 161
+pop$ -- 1229
+preamble$ -- 1
+purify$ -- 325
+quote$ -- 0
+skip$ -- 1259
+stack$ -- 0
+substring$ -- 2678
+swap$ -- 2268
+text.length$ -- 97
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 291
+warning$ -- 5
+while$ -- 350
+width$ -- 76
+write$ -- 784
+(There were 5 warnings)

@@ -1,0 +1,9 @@
+\contentsline {algorithm}{\numberline {1}{\ignorespaces \texttt {DemandPropagation}}}{42}{algorithm.1}
+\contentsline {algorithm}{\numberline {2}{\ignorespaces \texttt {ValuePropagation}}}{43}{algorithm.2}
+\contentsline {algorithm}{\numberline {3}{\ignorespaces SCF-Trees}}{43}{algorithm.3}
+\contentsline {algorithm}{\numberline {4}{\ignorespaces DFS traversal on a graph}}{44}{algorithm.4}
+\contentsline {algorithm}{\numberline {5}{\ignorespaces SCF-Graphs}}{49}{algorithm.5}
+\contentsline {algorithm}{\numberline {6}{\ignorespaces \texttt {handle\_messages }}}{50}{algorithm.6}
+\contentsline {algorithm}{\numberline {7}{\ignorespaces \texttt {propagate\_core\_status}}}{50}{algorithm.7}
+\contentsline {algorithm}{\numberline {8}{\ignorespaces \texttt {demand\_propagation}}}{50}{algorithm.8}
+\contentsline {algorithm}{\numberline {9}{\ignorespaces Computation of a risky baseload}}{61}{algorithm.9}

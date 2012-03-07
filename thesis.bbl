@@ -1,0 +1,387 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{GridVision}
+Grid 2030. {A} national vision for electricity's second 100 years. Washington
+  Department of Ecology (2003), \url{http://www.oe.energy.gov/
+  DocumentsandMedia/Electric\_Vision\_Document.pdf}
+
+\bibitem{GME}
+{GME} -- gestore mercati energetici / wholesale market. Italia (2012),
+  \url{http://www.mercatoelettrico.org/En/Default.aspx}
+
+\bibitem{2002RvMP...74...47A}
+{Albert}, R., {Barab{\'a}si}, A.L.: {Statistical mechanics of complex
+  networks}. Reviews of Modern Physics  74,  47--97 (Jan 2002)
+
+\bibitem{Arnold_Schwalbe_2002}
+Arnold, T., Schwalbe, U.: Dynamic coalition formation and the core. Journal of
+  Economic Behavior {\&} Organization  49(3),  363--380 (2002),
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S016726810200015X}
+
+\bibitem{DBLP:conf/ijcai/AugustineCEFGS11}
+Augustine, J., Chen, N., Elkind, E., Fanelli, A., Gravin, N., Shiryaev, D.:
+  Dynamics of profit-sharing games. In: IJCAI 2011, Proceedings of the 22nd
+  International Joint Conference on Artificial Intelligence, Barcelona,
+  Catalonia, Spain, July 16-22, 2011. pp. 37--42 (2011)
+
+\bibitem{AumannDreze1975}
+Aumann, R.J., Dr{\`{e}}ze, J.H.: {Cooperative games with Coalition Structures}.
+  International Journal of Game Theory  3,  217--237 (1975)
+
+\bibitem{aziz}
+Aziz, H., de~Keijzer, B.: Complexity of coalition structure generation. In:
+  Proceedings of 10th International Conference on Autonomous Agents and
+  Multiagent Systems (AAMAS 2011), Taipei, Taiwan, May 2-6, 2011, Volume 1-3.
+  pp. 191--198 (2011)
+
+\bibitem{RogerB2007260}
+B., R., Myerson: Virtual utility and the core for games with incomplete
+  information. Journal of Economic Theory  136(1),  260 -- 285 (2007),
+  \url{http://www.sciencedirect.com/science/article/pii/S0022053106001438}
+
+\bibitem{DBLP:conf/aaai/BachrachMJK10}
+Bachrach, Y., Meir, R., Jung, K., Kohli, P.: Coalitional structure generation
+  in skill games. In: Proceedings of the Twenty-Fourth AAAI Conference on
+  Artificial Intelligence, AAAI 2010, Atlanta, Georgia, USA, July 11-15, 2010
+  (2010)
+
+\bibitem{Banerjee:2000:SP:336595.337478}
+Banerjee, B., Sen, S.: Selecting partners. In: Proceedings of the fourth
+  international conference on Autonomous agents. pp. 261--262. AGENTS '00, ACM,
+  New York, NY, USA (2000), \url{http://doi.acm.org/10.1145/336595.337478}
+
+\bibitem{Bell:1934:en}
+Bell, E.: Exponential numbers. The American Mathematical Monthly  41(7),
+  411--419 (August 1934),
+  \url{http://links.jstor.org/sici?sici=0002-9890%28193408%2F09%2941%3A7%3C41%
+1%3AEN%3E2.0.CO%3B2-2}
+
+\bibitem{DBLP:conf/cp/2006}
+Benhamou, F. (ed.): Principles and Practice of Constraint Programming - CP
+  2006, 12th International Conference, CP 2006, Nantes, France, September
+  25-29, 2006, Proceedings, Lecture Notes in Computer Science, vol. 4204.
+  Springer (2006)
+
+\bibitem{RePEc:eee:gamebe:v:9:y:1995:i:1:p:21-34}
+Benny, M., Eyal, W.: Order independent equilibria. Games and Economic Behavior
+  9(1),  21--34 (April 1995),
+  \url{http://ideas.repec.org/a/eee/gamebe/v9y1995i1p21-34.html}
+
+\bibitem{bistaffa}
+Bistaffa, F., Farinelli, A., Vinyals, M., Rogers, A.: Decentralized stable
+  coalition formation among energy customers in the smart grid. {Demo Paper},
+  submitted at 11th International Conference on Autonomous Agents and
+  Multiagent Systems ({AAMAS} 2012)
+
+\bibitem{Blankenburg:2005:TKC:1082473.1082623}
+Blankenburg, B., Dash, R.K., Ramchurn, S.D., Klusch, M., Jennings, N.R.:
+  Trusted kernel-based coalition formation. In: Proceedings of the fourth
+  international joint conference on Autonomous agents and multiagent systems.
+  pp. 989--996. AAMAS '05, ACM, New York, NY, USA (2005),
+  \url{http://doi.acm.org/10.1145/1082473.1082623}
+
+\bibitem{DBLP:conf/aaai/BrafmanDET10}
+Brafman, R.I., Domshlak, C., Engel, Y., Tennenholtz, M.: Transferable utility
+  planning games. In: Proceedings of the Twenty-Fourth AAAI Conference on
+  Artificial Intelligence, AAAI 2010, Atlanta, Georgia, USA, July 11-15, 2010
+  (2010)
+
+\bibitem{RePEc:dgr:uvatin:20060056}
+van~den Brink, R.: On hierarchies and communication. Tinbergen Institute
+  Discussion Papers 06-056/1, Tinbergen Institute (Jul 2006),
+  \url{http://ideas.repec.org/p/dgr/uvatin/20060056.html}
+
+\bibitem{Chalkiadakis:2007:BAM:1467514}
+Chalkiadakis, G.: A bayesian approach to multiagent reinforcement learning and
+  coalition formation under uncertainty. Ph.D. thesis, Toronto, Ont., Canada,
+  Canada (2007), aAINR39416
+
+\bibitem{DBLP:conf/atal/ChalkiadakisB04}
+Chalkiadakis, G., Boutilier, C.: Bayesian reinforcement learning for coalition
+  formation under uncertainty. In: AAMAS. pp. 1090--1097. IEEE Computer Society
+  (2004)
+
+\bibitem{DBLP:conf/ijcai/ChalkiadakisB07}
+Chalkiadakis, G., Boutilier, C.: Coalitional bargaining with agent type
+  uncertainty. In: Veloso, M.M. (ed.) IJCAI. pp. 1227--1232 (2007)
+
+\bibitem{DBLP:conf/ijcai/ChalkiadakisEJ09}
+Chalkiadakis, G., Elkind, E., Jennings, N.R.: Simple coalitional games with
+  beliefs. In: Boutilier, C. (ed.) IJCAI. pp. 85--90 (2009)
+
+\bibitem{DBLP:series/synthesis/2011Chalkiadakis}
+Chalkiadakis, G., Elkind, E., Wooldridge, M.: Computational Aspects of
+  Cooperative Game Theory. Synthesis Lectures on Artificial Intelligence and
+  Machine Learning, Morgan {\&} Claypool Publishers (2011)
+
+\bibitem{DBLP:conf/atal/ChalkiadakisMB07}
+Chalkiadakis, G., Markakis, E., Boutilier, C.: Coalition formation under
+  uncertainty: bargaining equilibria and the bayesian core stability concept.
+  In: Durfee, E.H., Yokoo, M., Huhns, M.N., Shehory, O. (eds.) AAMAS. p.~64.
+  IFAAMAS (2007)
+
+\bibitem{RePEc:bla:restud:v:60:y:1993:i:2:p:463-77}
+Chatterjee, K., Dutta, B., Ray, D., Sengupta, K.: A noncooperative theory of
+  coalitional bargaining. Review of Economic Studies  60(2),  463--77 (April
+  1993), \url{http://ideas.repec.org/a/bla/restud/v60y1993i2p463-77.html}
+
+\bibitem{Clauset:SIAM2007}
+Clauset, A., Shalizi, C.R., Newman, M.E.J.: {Power-law distributions in
+  empirical data}. SIAM Reviews  (Jun 2007),
+  \url{http://arxiv.org/abs/0706.1062}
+
+\bibitem{Dang04generatingcoalition}
+Dang, V.D., Jennings, N.R.: Generating coalition structures with finite bound
+  from the optimal guarantees (2004)
+
+\bibitem{RePEc:ucp:jpolec:v:112:y:2004:i:4:p:754-778}
+Demange, G.: On group stability in hierarchies and networks. Journal of
+  Political Economy  112(4),  754--778 (August 2004),
+  \url{http://ideas.repec.org/a/ucp/jpolec/v112y2004i4p754-778.html}
+
+\bibitem{deng94}
+Deng, X., Papadimitriou, C.: On the complexity of cooperative solution
+  concepts. Mathematics of Operations Research  19(2),  257--266 (1994)
+
+\bibitem{Erdos1959}
+Erdős, P., Rényi, A.: On random graphs 1. Publ. Math. (Debrecen)  6,  290
+  (1959)
+
+\bibitem{RePEc:eee:gamebe:v:19:y:1997:i:2:p:211-220}
+Evans, R.: Coalitional bargaining with competition to make offers. Games and
+  Economic Behavior  19(2),  211--220 (May 1997),
+  \url{http://ideas.repec.org/a/eee/gamebe/v19y1997i2p211-220.html}
+
+\bibitem{Gillies1959}
+Gillies, D.B.: {Solutions to general non-zero-sum games}. In: Tucker, A.W.,
+  Luce, R.D. (eds.) Contributions to the Theory of Games {IV}, pp. 47--85.
+  No.~40 in Annals of Mathematics Studies, Princeton University Press,
+  Princeton (1959)
+
+\bibitem{DBLP:conf/ijcai/GrecoMPS11}
+Greco, G., Malizia, E., Palopoli, L., Scarcello, F.: On the complexity of the
+  core over coalition structures. In: IJCAI 2011, Proceedings of the 22nd
+  International Joint Conference on Artificial Intelligence, Barcelona,
+  Catalonia, Spain, July 16-22, 2011. pp. 216--221 (2011)
+
+\bibitem{RePEc:ecm:emetrp:v:64:y:1996:i:2:p:357-80}
+Hart, S., Mas-Colell, A.: Bargaining and value. Econometrica  64(2),  357--80
+  (March 1996),
+  \url{http://ideas.repec.org/a/ecm/emetrp/v64y1996i2p357-80.html}
+
+\bibitem{ieongmcnets}
+Ieong, S., Shoham, Y.: Marginal contribution nets: A compact representation
+  scheme for coalitional games. In: Proc. of the ACM Conference on Electronic
+  Commerce, 2005. p. 193 (2005)
+
+\bibitem{DBLP:conf/aaai/IeongS08}
+Ieong, S., Shoham, Y.: Bayesian coalitional games. In: Fox, D., Gomes, C.P.
+  (eds.) AAAI. pp. 95--100. AAAI Press (2008)
+
+\bibitem{jackson2003}
+Jackson, M.O.: A survey of models of network formation: Stability and
+  efficiency. Game Theory and Information 0303011, EconWPA (Mar 2003),
+  \url{http://ideas.repec.org/p/wpa/wuwpga/0303011.html}
+
+\bibitem{roger1991}
+Kalai, E.: Game theory: Analysis of conflict : By roger b. myerson, harvard
+  univ. press, cambridge, ma, 1991. 568 pp. Games and Economic Behavior  3(3),
+  387--391 (August 1991),
+  \url{http://ideas.repec.org/a/eee/gamebe/v3y1991i3p387-391.html}
+
+\bibitem{Ketchpel94formingcoalitions}
+Ketchpel, S.: Forming coalitions in the face of uncertain rewards. In: In Proc.
+  of AAAI94. pp. 414--419 (1994)
+
+\bibitem{Kjaerulff_1990}
+Kjaerulff, U.: Triangulation of graphs -- algorithms giving small total state
+  space. Technical Report R9009 Department of Mathematics and Computer Science
+  Aalborg University Denmark (R-90-09) (1990),
+  \url{http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.9834}
+
+\bibitem{Konishi20031}
+Konishi, H., Ray, D.: Coalition formation as a dynamic process. Journal of
+  Economic Theory  110(1),  1 -- 41 (2003),
+  \url{http://www.sciencedirect.com/science/article/pii/S0022053103000048}
+
+\bibitem{Kraus:2003:CFU:860575.860577}
+Kraus, S., Shehory, O., Taase, G.: Coalition formation with uncertain
+  heterogeneous information. In: Proceedings of the second international joint
+  conference on Autonomous agents and multiagent systems. pp. 1--8. AAMAS '03,
+  ACM, New York, NY, USA (2003), \url{http://doi.acm.org/10.1145/860575.860577}
+
+\bibitem{Kraus:2004:ACC:1018410.1018806}
+Kraus, S., Shehory, O., Taase, G.: The advantages of compromising in coalition
+  formation with incomplete information. In: Proceedings of the Third
+  International Joint Conference on Autonomous Agents and Multiagent Systems -
+  Volume 2. pp. 588--595. AAMAS '04, IEEE Computer Society, Washington, DC, USA
+  (2004), \url{http://dx.doi.org/10.1109/AAMAS.2004.259}
+
+\bibitem{Kraus1995297}
+Kraus, S., Wilkenfeld, J., Zlotkin, G.: Multiagent negotiation under time
+  constraints. Artificial Intelligence  75(2),  297 -- 345 (1995),
+  \url{http://www.sciencedirect.com/science/article/pii/000437029400021R}
+
+\bibitem{Liu_1996_410}
+Liu, J.S.: Coordination of Multiple Agents in Distributed Manufacturing
+  Scheduling. Ph.D. thesis, Robotics Institute, Carnegie Mellon University,
+  Pittsburgh, PA (April 1996)
+
+\bibitem{mas1995microeconomic}
+Mas-Colell, A., Whinston, M., Green, J.: Microeconomic theory. Oxford
+  University Press (1995), \url{http://books.google.it/books?id=KGtegVXqD8wC}
+
+\bibitem{megiddo:78}
+Megiddo, N.: Computational complexity of the game theory approach to cost
+  allocation on a tree. Mathematics of Operations Research  3(3),  189--196
+  (1978)
+
+\bibitem{springerlink:10.1007/3-540-26979-725}
+Myerson, R.: Cooperative games with incomplete information. In: Glycopantis,
+  D., Yannelis, N.C., Yannelis, N.C., Kehoe, T.J., Cornet, B. (eds.)
+  Differential Information Economies, Studies in Economic Theory, vol.~19, pp.
+  481--505. Springer Berlin Heidelberg (2005), 10.1007/3-540-26979-7\_25
+
+\bibitem{citeulike:5706315}
+Myerson, R.B.: {Graphs and Cooperation in Games}. Mathematics of Operations
+  Research  2(3),  225--229 (1977), \url{http://dx.doi.org/10.2307/3689511}
+
+\bibitem{615762}
+Nash, J.C.: The (dantzig) simplex method for linear programming. In: Computing
+  in Science and Engg., vol.~2, pp. 29--31. IEEE Educational Activities
+  Department, Piscataway, NJ, USA (2000)
+
+\bibitem{DBLP:conf/cp/OhtaCISIY09}
+Ohta, N., Conitzer, V., Ichimura, R., Sakurai, Y., Iwasaki, A., Yokoo, M.:
+  Coalition structure generation utilizing compact characteristic function
+  representations. In: Gent, I.P. (ed.) CP. Lecture Notes in Computer Science,
+  vol. 5732, pp. 623--638. Springer (2009)
+
+\bibitem{RePEc:eee:gamebe:v:16:y:1996:i:1:p:97-108}
+Okada, A.: A noncooperative coalitional bargaining game with random proposers.
+  Games and Economic Behavior  16(1),  97--108 (September 1996),
+  \url{http://ideas.repec.org/a/eee/gamebe/v16y1996i1p97-108.html}
+
+\bibitem{RePEc:cla:levrem:814577000000000225}
+Osborne, M.J., Rubinstein, A.: A course in game theory. Levine's Bibliography
+  814577000000000225, UCLA Department of Economics (May 2009),
+  \url{http://ideas.repec.org/p/cla/levrem/814577000000000225.html}
+
+\bibitem{RePEc:ecm:emetrp:v:62:y:1994:i:4:p:795-817}
+Perry, M., Reny, P.J.: A noncooperative view of coalition formation and the
+  core. Econometrica  62(4),  795--817 (July 1994),
+  \url{http://ideas.repec.org/a/ecm/emetrp/v62y1994i4p795-817.html}
+
+\bibitem{Rahwan08animproved}
+Rahwan, T., Jennings, N.R.: An improved dynamic programming algorithm for
+  coalition structure generation. In: In Proc. of the 7th Int. joint Conf. on
+  Autonomous Agents and Multi-agent Systems (AAMAS. pp. 1417--1420 (2008)
+
+\bibitem{Rahwan_Jennings_2008}
+Rahwan, T., Jennings, N.: Coalition structure generation: Dynamic programming
+  meets anytime optimisation. Proceedings of the TwentyThird AAAI Conference on
+  Artificial Intelligence 2008 p. 156–161 (2008),
+  \url{http://eprints.ecs.soton.ac.uk/16112/}
+
+\bibitem{DBLP:journals/jair/RahwanRJG09}
+Rahwan, T., Ramchurn, S.D., Jennings, N.R., Giovannucci, A.: An anytime
+  algorithm for optimal coalition structure generation. J. Artif. Intell. Res.
+  (JAIR)  34,  521--567 (2009)
+
+\bibitem{DBLP:conf/atal/RamchurnVRJ11}
+Ramchurn, S.D., Vytelingum, P., Rogers, A., Jennings, N.R.: Agent-based control
+  for decentralised demand side management in the smart grid. In: Proceedings
+  of 10th International Conference on Autonomous Agents and Multiagent Systems
+  (AAMAS 2011), Taipei, Taiwan, May 2-6, 2011, Volume 1-3. pp. 5--12 (2011)
+
+\bibitem{ecs21664}
+Rogers, A., Farinelli, A., Stranders, R., Jennings, N.R.: Bounded approximate
+  decentralised coordination via the max-sum algorithm. Artificial Intelligence
+   175(2),  730--759 (February 2011),
+  \url{http://eprints.ecs.soton.ac.uk/21664/}
+
+\bibitem{Rothkopf98computationallymanageable}
+Rothkopf, M.H., Pekec, A., Harstad, R.M.: Computationally manageable
+  combinatorial auctions (1998)
+
+\bibitem{Sandholm99coalitionstructure}
+Sandholm, T., Larson, K., Andersson, M., Shehory, O., Tohmé, F.: Coalition
+  structure generation with worst case guarantees (1999)
+
+\bibitem{RePEc:spr:sochwe:v:14:y:1997:i:4:p:513-525}
+Serrano, R., Vohra, R.: Non-cooperative implementation of the core. Social
+  Choice and Welfare  14(4),  513--525 (1997),
+  \url{http://ideas.repec.org/a/spr/sochwe/v14y1997i4p513-525.html}
+
+\bibitem{ServiceAdams10b}
+Service, T.C., Adams, J.A.: Constant factor approximation algorithms for
+  coalition structure generation. Autonomous Agents and Multi-Agent Systems
+  23(1),  1--17 (July 2011)
+
+\bibitem{DBLP:journals/ai/ShehoryK98}
+Shehory, O., Kraus, S.: Methods for task allocation via agent coalition
+  formation. Artif. Intell.  101(1-2),  165--200 (1998)
+
+\bibitem{COIN:COIN092}
+Shehory, O., Kraus, S.: Feasible formation of coalitions among autonomous
+  agents in nonsuperadditive environments. Computational Intelligence  15(3),
+  218--251 (1999), \url{http://dx.doi.org/10.1111/0824-7935.00092}
+
+\bibitem{springerlink:10.1007/BFb0026756}
+Shehory, O., Sycara, K., Jha, S.: Multi-agent coordination through coalition
+  formation. In: Singh, M., Rao, A., Wooldridge, M. (eds.) Intelligent Agents
+  IV Agent Theories, Architectures, and Languages, Lecture Notes in Computer
+  Science, vol. 1365, pp. 143--154. Springer Berlin / Heidelberg (1998),
+  \url{http://dx.doi.org/10.1007/BFb0026756}, 10.1007/BFb0026756
+
+\bibitem{Suijs1999331}
+Suijs, J., Borm, P.: Stochastic cooperative games: Superadditivity, convexity,
+  and certainty equivalents. Games and Economic Behavior  27(2),  331 -- 345
+  (1999),
+  \url{http://www.sciencedirect.com/science/article/pii/S0899825698906728}
+
+\bibitem{Suijs1999193}
+Suijs, J., Borm, P., Waegenaere, A.D., Tijs, S.: Cooperative games with
+  stochastic payoffs. European Journal of Operational Research  113(1),  193 --
+  205 (1999),
+  \url{http://www.sciencedirect.com/science/article/pii/S0377221797004219}
+
+\bibitem{Sycara:1996:DIA:629553.630174}
+Sycara, K., Pannu, A., Williamson, M., Zeng, D., Decker, K.: Distributed
+  intelligent agents. IEEE Expert: Intelligent Systems and Their Applications
+  11,  36--46 (December 1996), \url{http://dx.doi.org/10.1109/64.546581}
+
+\bibitem{DBLP:journals/siamcomp/TarjanY85}
+Tarjan, R.E., Yannakakis, M.: Addendum: Simple linear-time algorithms to test
+  chordality of graphs, test acyclicity of hypergraphs, and selectively reduce
+  acyclic hypergraphs. SIAM J. Comput.  14(1),  254--255 (1985)
+
+\bibitem{DBLP:journals/network/TomprosMDFH09}
+Tompros, S.L., Mouratidis, N.P., Draaijer, M., Foglar, A., Hrasnica, H.:
+  Enabling applicability of energy saving applications on the appliances of the
+  home environment. IEEE Network  23(6),  8--16 (2009)
+
+\bibitem{farinellirogers}
+Vinyals, M., Farinelli, A., Rogers, A., Jennings, N.: A message-passing
+  approach to computing stable coalitions on graphs, under submission
+
+\bibitem{springerlink:10.1007/s10458-010-9132-7}
+Vinyals, M., Rodriguez-Aguilar, J., Cerquides, J.: Constructing a unifying
+  theory of dynamic programming dcop algorithms via the generalized
+  distributive law. Autonomous Agents and Multi-Agent Systems  22,  439--464
+  (2011), \url{http://dx.doi.org/10.1007/s10458-010-9132-7},
+  10.1007/s10458-010-9132-7
+
+\bibitem{citeulike:99}
+Watts, D.J., Strogatz, S.H.: {Collective dynamics of ``small-world'' networks}.
+  Nature  393(6684),  440--442 (Jun 1998),
+  \url{http://dx.doi.org/10.1038/30918}
+
+\bibitem{springerlink:10.1007/s001820300137}
+Yan, H.: Noncooperative selection of the core. International Journal of Game
+  Theory  31,  527--540 (2003), \url{http://dx.doi.org/10.1007/s001820300137},
+  10.1007/s001820300137
+
+\end{thebibliography}

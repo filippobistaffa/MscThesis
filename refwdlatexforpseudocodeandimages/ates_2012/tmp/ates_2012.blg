@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ates_2012.aux
+The style file: abbrv.bst
+Database file #1: references.bib
+Warning--to sort, need author or key in vademecumitaly
+Warning--to sort, need author or key in marketrules
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            527 strings with 4592 characters,
+and the built_in function-call counts, 1311 in all, are:
+= -- 121
+> -- 55
+< -- 0
++ -- 25
+- -- 18
+* -- 81
+:= -- 211
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 51
+empty$ -- 124
+format.name$ -- 18
+if$ -- 283
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 4
+newline$ -- 27
+num.names$ -- 6
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 19
+quote$ -- 0
+skip$ -- 33
+stack$ -- 0
+substring$ -- 48
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 2
+while$ -- 7
+width$ -- 6
+write$ -- 53
+(There were 2 warnings)

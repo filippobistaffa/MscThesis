@@ -1,0 +1,49 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Contributions}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Algorithm outline}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Experimental analysis}{chapter.1}
+\BOOKMARK [1][-]{section.1.4}{Results}{chapter.1}
+\BOOKMARK [1][-]{section.1.5}{Thesis outline}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}
+\BOOKMARK [1][-]{section.2.1}{Coalition Structure Generation}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.1.1}{Dynamic Programming}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.2}{Anytime Algorithms}{section.2.1}
+\BOOKMARK [1][-]{section.2.2}{Stable Coalitions}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{Bargaining Approach}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.2}{Dynamic Coalition Formation}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.3}{Dealing with Uncertainty}{section.2.2}
+\BOOKMARK [1][-]{section.2.3}{Coalition generation on graphs}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Stable Coalition Formation}{}
+\BOOKMARK [1][-]{section.3.1}{Characteristic function games}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Outcomes}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Notable subclasses}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.3.1}{Monotone games}{section.3.3}
+\BOOKMARK [2][-]{subsection.3.3.2}{Superadditive games}{section.3.3}
+\BOOKMARK [1][-]{section.3.4}{Solution concepts}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.4.1}{The core}{section.3.4}
+\BOOKMARK [0][-]{chapter.4}{Coalition Formation with GDL}{}
+\BOOKMARK [1][-]{section.4.1}{Related concepts}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{Coalitional games on graphs}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.2}{GDL message-passing algorithm}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{Problem representation}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Algorithms}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.3.1}{Stable coalition formation in trees}{section.4.3}
+\BOOKMARK [2][-]{subsection.4.3.2}{Stable coalition formation in graphs}{section.4.3}
+\BOOKMARK [0][-]{chapter.5}{Application to the Energy Market}{}
+\BOOKMARK [1][-]{section.5.1}{The Problem}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Social networks}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.2.1}{Scale-free networks}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.2}{Small-world networks}{section.5.2}
+\BOOKMARK [1][-]{section.5.3}{Buying in the Energy Market}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.3.1}{Wholesale electricity market}{section.5.3}
+\BOOKMARK [1][-]{section.5.4}{Metrics}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.4.1}{Load diversity factor}{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.2}{User price factor}{section.5.4}
+\BOOKMARK [1][-]{section.5.5}{Demonstration Application}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{Results}{}
+\BOOKMARK [1][-]{section.6.1}{Problem generation}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{CPLEX verification}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Market's parameters}{chapter.6}
+\BOOKMARK [1][-]{section.6.4}{Results}{chapter.6}
+\BOOKMARK [1][-]{section.6.5}{Plots}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Conclusions and Future Work}{}

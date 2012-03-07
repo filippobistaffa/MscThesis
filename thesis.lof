@@ -1,0 +1,47 @@
+\select@language {english}
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Example of a) a game on an acyclic graph; b) a representation of (a); and c) a junction tree of (b).}}{37}{figure.4.1}
+\contentsline {subfigure}{\string \numberline {4.1(a)}{\ignorespaces Game over a tree}}{37}{figure.4.1}
+\contentsline {subfigure}{\string \numberline {4.1(b)}{\ignorespaces Representation}}{37}{figure.4.1}
+\contentsline {subfigure}{\string \numberline {4.1(c)}{\ignorespaces $\gamma $-Junction tree}}{37}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Example of (a) a graph with a cycle ($G$); (b) a pseudotree $PT$ of $G$; and (c) a clique tree of $PT$.}}{45}{figure.4.2}
+\contentsline {subfigure}{\string \numberline {4.2(a)}{\ignorespaces $G$}}{45}{figure.4.2}
+\contentsline {subfigure}{\string \numberline {4.2(b)}{\ignorespaces $PT$}}{45}{figure.4.2}
+\contentsline {subfigure}{\string \numberline {4.2(c)}{\ignorespaces Clique tree.}}{45}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Messages exchanged at different steps of the execution of \emph {SCF-Graphs} over the clique tree in Figure \ref {fig:cycle_graph}.}}{46}{figure.4.3}
+\contentsline {subfigure}{\string \numberline {4.3(a)}{\ignorespaces }}{46}{figure.4.3}
+\contentsline {subfigure}{\string \numberline {4.3(b)}{\ignorespaces }}{46}{figure.4.3}
+\contentsline {subfigure}{\string \numberline {4.3(c)}{\ignorespaces }}{46}{figure.4.3}
+\contentsline {subfigure}{\string \numberline {4.3(d)}{\ignorespaces }}{46}{figure.4.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Typical energetic profile over 24 hours}}{52}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Scale-free network example}}{54}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Small-world network example}}{56}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Example of a report with price profile and volume exchange data}}{58}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Example of different base loads for the same energy profile}}{61}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Initial dialog of the simulator application}}{62}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces The simulator main interface}}{63}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The coalition energy profile inspector}}{64}{figure.5.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Graphs showing the average percent gain of consumers on different topologies and densities under market conditions $M_1$ (a)-(c), $M_2$ (d)-(f) and $M_3$ (g)-(i).}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(a)}{\ignorespaces Random Graphs $M_1$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(b)}{\ignorespaces Scale Free $M_1$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(c)}{\ignorespaces Small World $M_1$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(d)}{\ignorespaces Random Graphs $M_2$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(e)}{\ignorespaces Scale Free $M_2$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(f)}{\ignorespaces Small World $M_2$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(g)}{\ignorespaces Random Graphs $M_3$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(h)}{\ignorespaces Scale Free $M_3$}}{69}{figure.6.1}
+\contentsline {subfigure}{\string \numberline {6.1(i)}{\ignorespaces Small World $M_3$}}{69}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Graphs showing the minimum, average and maximum size of coalitions formed on different topologies and densities under market conditions $M_1$ (a)-(c), $M_2$ (d)-(f). }}{70}{figure.6.2}
+\contentsline {subfigure}{\string \numberline {6.2(a)}{\ignorespaces Random Graphs $M_1$}}{70}{figure.6.2}
+\contentsline {subfigure}{\string \numberline {6.2(b)}{\ignorespaces Random Graphs $M_2$}}{70}{figure.6.2}
+\contentsline {subfigure}{\string \numberline {6.2(c)}{\ignorespaces Scale Free $M_1$}}{70}{figure.6.2}
+\contentsline {subfigure}{\string \numberline {6.2(d)}{\ignorespaces Scale Free $M_2$}}{70}{figure.6.2}
+\contentsline {subfigure}{\string \numberline {6.2(e)}{\ignorespaces Small World $M_1$}}{70}{figure.6.2}
+\contentsline {subfigure}{\string \numberline {6.2(f)}{\ignorespaces Small World $M_2$}}{70}{figure.6.2}
+\addvspace {10\p@ }

@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{marketrules}
+Tradewind, further developing europe's power market for large scale integration
+  of wind power. report d. 4.1., 2007.
+\newblock
+  \url{http://www.trade-wind.eu/fileadmin/documents/publications/D4.1_Summary_report_of_market_rules.pdf}.
+
+\bibitem{vademecumitaly}
+Vademecum of the italian power exchange.
+\newblock Gestore dei mercati energetici S. p. A., 2009.
+\newblock
+  \url{http://www.mercatoelettrico.org/En/MenuBiblioteca/documenti/20091112VademecumofIpex.pdf}.
+
+\bibitem{demange2004}
+G.~Demange.
+\newblock {On Group Stability in Hierarchies and Networks}.
+\newblock {\em Journal of Political Economy}, 112(4):754--778, August 2004.
+
+\bibitem{Gutin08analgorithm}
+G.~Gutin, A.~Johnstone, J.~Reddington, E.~Scott, A.~Soleimanfallah, and A.~Yeo.
+\newblock An algorithm for finding connected convex subgraphs of an acyclic
+  digraph.
+\newblock In {\em IN ÔALGORITHMS AND COMPLEXITY}. College Publications, 2008.
+
+\bibitem{osborne}
+M.~J. Osborne and A.~Rubinstein.
+\newblock {\em A Course in Game Theory}.
+\newblock MIT Press, Cambridge MA, USA, 1994.
+
+\end{thebibliography}

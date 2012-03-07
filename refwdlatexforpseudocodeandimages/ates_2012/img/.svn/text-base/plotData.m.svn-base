@@ -1,0 +1,57 @@
+%filenames={'random-1.00_70_80' 'random-2.00_70_80' 'random-3.00_70_80' 'scalefree-0.92_70_80' 'scalefree-1.75_70_80' 'scalefree-3.17_70_80' 'smallworld-1.00_70_80' 'smallworld-2.00_70_80' 'smallworld-3.00_70_80'};
+filenames={'random-1.00' 'random-2.00' 'random-3.00' 'scalefree-0.92' 'scalefree-1.75' 'scalefree-3.17' 'smallworld-1.00' 'smallworld-2.00' 'smallworld-3.00'};
+%names={'Random_70_80', 'ScaleFree_70_80', 'SmallWorld_70_80'};
+names={'Random', 'ScaleFree', 'SmallWorld'};
+%titles={'Random Networks', 'Scale Free Networks', 'Small World Networks'};
+xtitles={'Low', 'Medium', 'High'};
+sizeF=size(filenames, 2);
+
+density=[1,2,3;0.92,1.75,3.17;1,2,3];
+
+for f = 1:sizeF
+
+matrix = load(strcat('./data/',filenames{1,f}));
+aug(f) = mean(matrix(:,2));
+minSize(f) = mean(matrix(:,3));
+maxSize(f) = mean(matrix(:,4));
+avgSize(f) = mean(matrix(:,5));
+
+end
+
+densityRandom = density(1:3);
+densityScaleFree = density(4:6);
+densitySmallWorld = density(7:9);
+
+augRandom = aug(1:3);
+augScaleFree = aug(4:6);
+augSmallWorld = aug(7:9);
+
+sizeMatrix = [minSize; avgSize; maxSize];
+
+for i = 1:3
+
+figure(i);
+%bar(density(i,:),sizeMatrix(:,3*(i-1)+1:3*i)')
+bar(sizeMatrix(:,3*(i-1)+1:3*i)')
+set(gca, 'XTickLabel', xtitles,'FontSize',18)
+xlabel('Density','FontSize',24)
+ylabel('Coalition Size', 'FontSize',24)
+set(gca,'YLim',[0 10])
+%title(titles{i})
+legend('Min','Avg','Max')
+print('-dpng','-r500',strcat(names{i},'-Size.png'))
+
+end
+
+for i = 1:3
+
+figure(i+3);
+%bar(density(i,:),aug(3*(i-1)+1:3*i));
+bar(aug(3*(i-1)+1:3*i));
+set(gca, 'XTickLabel', xtitles,'FontSize',18)
+xlabel('Density', 'FontSize',24)
+ylabel('Average User Gain', 'FontSize',24)
+%title(titles{i})
+print('-dpng','-r500',strcat(names{i},'-AUG.png'))
+
+end

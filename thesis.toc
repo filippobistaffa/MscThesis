@@ -1,0 +1,63 @@
+\select@language {english}
+\select@language {english}
+\contentsline {paragraph}{Abstract --}{8}{section*.4}
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}Contributions}{10}{section.1.1}
+\contentsline {section}{\numberline {1.2}Algorithm outline}{12}{section.1.2}
+\contentsline {section}{\numberline {1.3}Experimental analysis}{13}{section.1.3}
+\contentsline {section}{\numberline {1.4}Results}{13}{section.1.4}
+\contentsline {section}{\numberline {1.5}Thesis outline}{14}{section.1.5}
+\contentsline {chapter}{\numberline {2}Related Work}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Coalition Structure Generation}{15}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Dynamic Programming}{16}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Anytime Algorithms}{17}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Stable Coalitions}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Bargaining Approach}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Dynamic Coalition Formation}{19}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Dealing with Uncertainty}{20}{subsection.2.2.3}
+\contentsline {subsubsection}{Uncertainty about resources}{21}{section*.5}
+\contentsline {subsubsection}{Stochastic cooperative games}{22}{section*.6}
+\contentsline {subsubsection}{Bayesian cooperative games}{23}{section*.7}
+\contentsline {section}{\numberline {2.3}Coalition generation on graphs}{24}{section.2.3}
+\contentsline {chapter}{\numberline {3}Stable Coalition Formation}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Characteristic function games}{27}{section.3.1}
+\contentsline {subsubsection}{Input representation}{28}{section*.8}
+\contentsline {subsubsection}{Positive payments}{28}{section*.9}
+\contentsline {section}{\numberline {3.2}Outcomes}{28}{section.3.2}
+\contentsline {section}{\numberline {3.3}Notable subclasses}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Monotone games}{29}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Superadditive games}{30}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Solution concepts}{31}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}The core}{31}{subsection.3.4.1}
+\contentsline {subsubsection}{The core of superadditive games}{32}{section*.10}
+\contentsline {chapter}{\numberline {4}Coalition Formation with GDL}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Related concepts}{34}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Coalitional games on graphs}{34}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}GDL message-passing algorithm}{35}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Problem representation}{36}{section.4.2}
+\contentsline {section}{\numberline {4.3}Algorithms}{40}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Stable coalition formation in trees}{40}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Stable coalition formation in graphs}{43}{subsection.4.3.2}
+\contentsline {subsubsection}{Pseudotree construction through DFS}{43}{section*.11}
+\contentsline {subsubsection}{Execution of \textit {SCF-Graphs}}{45}{section*.12}
+\contentsline {chapter}{\numberline {5}Application to the Energy Market}{51}{chapter.5}
+\contentsline {section}{\numberline {5.1}The Problem}{51}{section.5.1}
+\contentsline {section}{\numberline {5.2}Social networks}{53}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Scale-free networks}{53}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Small-world networks}{55}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Buying in the Energy Market}{56}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Wholesale electricity market}{57}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Metrics}{58}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Load diversity factor}{59}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}User price factor}{60}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Demonstration Application}{62}{section.5.5}
+\contentsline {chapter}{\numberline {6}Results}{65}{chapter.6}
+\contentsline {section}{\numberline {6.1}Problem generation}{65}{section.6.1}
+\contentsline {section}{\numberline {6.2}CPLEX verification}{66}{section.6.2}
+\contentsline {section}{\numberline {6.3}Market's parameters}{67}{section.6.3}
+\contentsline {section}{\numberline {6.4}Results}{67}{section.6.4}
+\contentsline {subsubsection}{Consumer's gain}{67}{section*.13}
+\contentsline {subsubsection}{Core emptiness}{68}{section*.14}
+\contentsline {subsubsection}{Structure of energy coalitions}{68}{section*.15}
+\contentsline {section}{\numberline {6.5}Plots}{69}{section.6.5}
+\contentsline {chapter}{\numberline {7}Conclusions and Future Work}{71}{chapter.7}
